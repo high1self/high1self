@@ -27,8 +27,6 @@
 
 ## Проект UI тестов
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=high1self&repo=ui_tests)](https://github.com/high1self/ui_tests)
-
-:link: Тестовый проект: <a target="_blank" href="https://github.com/high1self/ui_tests">UI</a></br></br>
 :heavy_check_mark: Реализованы автотесты UI для сайта Demoqa </br></br>
 :round_pushpin: Что особенного:
 
@@ -39,7 +37,7 @@
 
 
 ## Проект API тестов 
-:link: Тестовый проект: <a target="_blank" href="https://github.com/high1self/api_tests">API</a></br></br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=high1self&repo=api_tests)](https://github.com/high1self/api_tests)
 :heavy_check_mark: Реализованы автотесты Rest API на сервисе reqres.in.</br></br>
 :round_pushpin: Что особенного:
 
@@ -49,7 +47,7 @@
 - [x] Интеграция с Jenkins
 
 ## Проект Mobile тестов 
-:link: Тестовый проект: <a target="_blank" href="https://github.com/high1self/mobile_tests">Mobile</a></br></br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=high1self&repo=mobile_tests)](https://github.com/high1self/mobile_tests)
 :heavy_check_mark: Реализованы автотесты мобильного приложения Wikipedia на Browserstack и эмуляторе Android.</br></br>
 :round_pushpin: Что особенного:
 
@@ -57,12 +55,4 @@
 - [x] Интеграция с эмулятором Android
 - [x] Allure Steps
 - [x] Возможность запуска на разных стендах
-
-
-
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 
