@@ -31,7 +31,7 @@
 :heavy_check_mark: Реализованы автотесты UI для сайта Demoqa </br></br>
 :round_pushpin: Что особенного:
 
-- [x] Page Object
+- [x] Page Element (Element object pattern)
 - [x] Интеграция с Allure report
 - [x] Интеграция с Jenkins
 - [x] Интеграция с Selenoid
