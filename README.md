@@ -2,6 +2,15 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=high1self)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%D0%9C%D0%BE%D0%B8+%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B%3A)](https://git.io/typing-svg)
+
+
+
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
