@@ -27,6 +27,7 @@
 
 ## Проект UI тестов
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=high1self&repo=ui_tests)](https://github.com/high1self/ui_tests)
+
 :heavy_check_mark: Реализованы автотесты UI для сайта Demoqa </br></br>
 :round_pushpin: Что особенного:
 
@@ -38,6 +39,7 @@
 
 ## Проект API тестов 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=high1self&repo=api_tests)](https://github.com/high1self/api_tests)
+
 :heavy_check_mark: Реализованы автотесты Rest API на сервисе reqres.in.</br></br>
 :round_pushpin: Что особенного:
 
@@ -48,6 +50,7 @@
 
 ## Проект Mobile тестов 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=high1self&repo=mobile_tests)](https://github.com/high1self/mobile_tests)
+
 :heavy_check_mark: Реализованы автотесты мобильного приложения Wikipedia на Browserstack и эмуляторе Android.</br></br>
 :round_pushpin: Что особенного:
 
