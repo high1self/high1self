@@ -2,14 +2,14 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=high1self)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&width=435&lines=%D0%9C%D0%BE%D0%B8+%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&width=435&lines=%D0%9C%D0%BE%D0%B8+%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B%3A)](https://git.io/typing-svg)
 <p>
  &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://t.me/Superpuper1"><img width="37px" alt="Telegram" title="Telegram" src="./img/icons/tg.png"/></a>
  &#8287;
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BE%D0%A1%D1%82%D1%8D%D0%BA+%D0%B8+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&width=435&lines=%F0%9F%92%BE%D0%A1%D1%82%D1%8D%D0%BA+%D0%B8+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)](https://git.io/typing-svg)
 <p  align="center">
   <code><img width="5%" title="Python" src="./img/icons/python.png"></code>
   <code><img width="5%" title="PyCharm" src="./img/icons/pycharm.png"></code>
